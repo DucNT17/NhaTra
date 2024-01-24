@@ -155,7 +155,7 @@ section {
 }
 
 .home .row .image img {
-    height: 35rem;
+    height: 50rem;
     animation: float 4s linear infinite;
 }
 
